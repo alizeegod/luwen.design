@@ -1,0 +1,14 @@
+{
+    "development": {
+        "cdnUrl": "",
+        "proxyUrl": "/proxy/",
+        "baseUrl": "http://localhost:8000",
+        "musicUrl": "http://musicapi.alizeegod.com"
+    },
+    "production": {
+        "cdnUrl": "https://cdn.surmon.me",
+        "proxyUrl": "https://surmon.me/proxy/",
+        "baseUrl": "https://api.surmon.me",
+        "musicUrl": "http://musicapi.alizeegod.com"
+    }
+}
