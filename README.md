@@ -1,8 +1,8 @@
 # luwen.design
 
 > luwen design
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=)
-![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=)
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=alizeegod.luwen.design)
+![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=alizeegod.luwen.design)
 ## Build Setup
 
 ``` bash
