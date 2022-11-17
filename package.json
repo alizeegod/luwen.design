@@ -18,7 +18,7 @@
     "element-ui": "^2.11.1",
     "js2wordcloud": "^1.1.12",
     "koa": "^2.7.0",
-    "nuxt": "^2.8.1",
+    "nuxt": "^2.15.8",
     "vue-aplayer": "^1.6.1"
   },
   "devDependencies": {
